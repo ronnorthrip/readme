@@ -99,5 +99,5 @@ php artisan test
 
 ## License
 
-This is a private repository for Bluehorse by Birdboar, LLC.
+This is a private repository for Project Owner by Birdboar, LLC.
 All Rights Reserved.
